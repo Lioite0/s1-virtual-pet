@@ -9,6 +9,14 @@ public class Runner {
         // takeARest(4000);
         // p.exercise();
         p.perform();
+        takeARest(1500);
+        p.perform();
+        takeARest(1500);
+        p.perform();
+        takeARest(1500);
+        p.sleep();
+        takeARest(1500);
+        p.perform();
    
     }
 
